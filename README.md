@@ -32,6 +32,9 @@ DevOps Engineer | CI/CD | Cloud | Automation
 - 💼 [https://www.linkedin.com/in/anupama-kanade-041977188/]
 - 📧 Email: anupama32@gmail.com  
 
-Thanks for visiting! ![ANU](https://github.com/user-attachments/assets/afdbf61a-dc5a-44b1-9a28-93bc18a97184) 
+Thanks for visiting! 
+
+![ANU] (https://github.com/user-attachments/assets/8c65120f-10a0-42ef-9f94-b6c86024672b)
+
 
 
