@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Anu 👋  
 
-<!--
-**Anu-Kan/Anu-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | CI/CD | Cloud | Automation  
 
-Here are some ideas to get you started:
+- 🔧 I work with: **Git, GitHub, Linux, Jenkins, Docker, Kubernetes, Ansible**  
+- 🚀 I enjoy: Automating workflows, improving deployments, and solving tricky system issues  
+- 📚 Currently learning: Advanced Kubernetes, cloud (AWS/Azure), and observability tools  
+- 🤝 Open to: Collaborations, part-time training, and remote DevOps roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Shell Scripting, Python (basics), YAML  
+- **DevOps & Cloud:** Git, GitHub, Jenkins, Docker, Kubernetes, Ansible  
+- **OS & Tools:** Linux, Ubuntu, Windows, VS Code, GitHub Actions, CI/CD Pipelines  
+
+---
+
+### 📌 Featured Projects
+
+- **CI/CD Pipeline Demo** – Automated build & deploy with Jenkins + Docker  
+- **Kubernetes Deployment Lab** – Sample microservice deployed on k8s  
+- **Ansible Playbook Collection** – Server provisioning and configuration  
+
+👉 _You can pin these repositories below so they show on the front page._
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [https://www.linkedin.com/in/anupama-kanade-041977188/]
+- 📧 Email: anupama32@gmail.com  
+
+Thanks for visiting! ![ANU](https://github.com/user-attachments/assets/afdbf61a-dc5a-44b1-9a28-93bc18a97184) 
+
+
